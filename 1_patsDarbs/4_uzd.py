@@ -26,6 +26,6 @@ plt.ylabel("Populācija(N)")
 plt.legend()
 plt.grid()
 
-plt.savefig("1_patsDarbs/Bogdanova_4uzd.png", dpi=500)
+plt.savefig("1_patsDarbs/Bogdanova_4uzd.png", dpi=300)
 
 plt.show()

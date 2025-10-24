@@ -42,6 +42,6 @@ plt.title("Trāpīt mērķī")
 plt.legend()
 plt.grid()
 
-plt.savefig("1_patsDarbs/Bogdanova_5uzd.png", dpi=500)
+plt.savefig("1_patsDarbs/Bogdanova_5uzd.png", dpi=300)
 
 plt.show()
